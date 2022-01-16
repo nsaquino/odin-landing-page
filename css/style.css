@@ -129,3 +129,32 @@ button {
 .img-and-text .text {
     color: darkslategrey;
 }
+
+/* Quote section */
+
+#quote-section {
+    background-color: #e5e7eb;
+    padding: 100px 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    width: 49em;
+}
+
+.quote .text {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.quote .from {
+    font-weight: 700;
+    font-size: 24px;
+    align-self: flex-end;
+}
