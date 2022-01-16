@@ -201,3 +201,15 @@ button {
     border-radius: 10px;
     padding: 3px 22px;
 }
+
+/* Footer section */
+
+.footer {
+    background-color: #1f2937;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 200px;
+    font-size: 15px;
+}
