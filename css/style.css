@@ -52,12 +52,13 @@ button {
     padding: 80px 200px;
     display: flex;
     justify-content: space-between;
+    align-items: center;
     gap: 30px;
 }
 
 .hero .right {
-    width: 460px;
-    height: 230px;
+    width: 360px;
+    height: 220px;
     background-color: #6c7e81;
     display: flex;
     justify-content: center;
@@ -83,7 +84,7 @@ button {
 .hero .left p {
     font-size: 18px;
     color: #e5e7eb;
-    margin: 0px 0px 12px 0px;
+    margin: 0px 0px 20px 0px;
 }
 
 /* Information section */
