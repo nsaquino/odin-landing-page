@@ -32,3 +32,51 @@ a {
     color: #e5e7eb;
     font-size: 18px;
 }
+
+img {
+    color: lightgray;
+}
+
+button {
+    background-color: #3882f6;
+    color: #f9faf8;
+    border: none;
+    border-radius: 8px;
+    padding: 6px 24px;
+    font-weight: 900;
+    font-size: 15px;
+}
+
+.hero {
+    background-color: #1f2937;
+    padding: 80px 200px;
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.hero .right {
+    width: 460px;
+    height: 230px;
+    background-color: #6c7e81;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero .left {
+    flex: 1;
+}
+
+.hero .left header{
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
+    margin-bottom: 8px;
+}
+
+.hero .left p {
+    font-size: 18px;
+    color: #e5e7eb;
+    margin: 0px 0px 12px 0px;
+}
