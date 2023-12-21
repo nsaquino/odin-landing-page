@@ -6,3 +6,6 @@ This is the second project from the Foundations section of The Odin Project. The
 * changing how the different elements are arranged in the web page using CSS.
 * understanding and taking advantage of the block model to correctly position the elements on the web page.
 * utilizing Flexbox's properties to shape and position the elements on the web page.
+
+## Preview
+https://nsaquino.github.io/odin-landing-page/
